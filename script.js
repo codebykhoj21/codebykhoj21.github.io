@@ -27,7 +27,7 @@ noButton.addEventListener("click", function () {
 });
 
 function handleYesClick() {
-  titleElement.innerHTML = "Yeheyyy!! I Love youu! :3 Thank you for letting me love you and for loving me in return. I am so Lucky that you are mine. Advance Happy Valentines Day hehe!";
+  titleElement.innerHTML = "Yeheyyy!! I Love youu! :3 Thank you for letting me love you and for loving me in return. I am so Lucky that you are mine. Advance Happy Valentines Day! 😚😚😚";
   buttonsContainer.classList.add("hidden");
   changeImage("yes");
 }
